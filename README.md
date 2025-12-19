@@ -26,35 +26,35 @@ I enjoy learning new technologies and working on real-world projects.
 
 ### 🛒 Capped It – E-Commerce System
 📌 PHP | MySQL | HTML | CSS | JavaScript  
-🔗 https://github.com/matheesh25/capped-it  
+🔗 "https://github.com/matheesh25/Capped-It"
 🎥 Demo Video available in README
 
 ---
 
 ### 🍰 Christo Bakers – Web Application
 📌 Bootstrap | jQuery | AJAX | JSON  
-🔗 https://github.com/matheesh25/christo-bakers  
+🔗 "https://github.com/matheesh25/christo-bakers"
 🎥 Demo Video available in README
 
 ---
 
 ### 🏥 Patient Record Management System
 📌 Node.js | MongoDB | AJAX  
-🔗 https://github.com/matheesh25/prms-system  
+🔗 "https://github.com/matheesh25/PRMS"
 🎥 Demo Video available in README
 
 ---
 
 ### 📱 Java Android Application
 📌 Java | Android Studio  
-🔗 https://github.com/matheesh25/java-android-project  
+🔗 "https://github.com/matheesh25/Bankers-App"  
 🎥 Demo Video available in README
 
 ---
 
 ### 🌐 Personal Portfolio Website
 📌 HTML | CSS | JavaScript  
-🔗 https://github.com/matheesh25/matheesh25.github.io  
+🔗 "https://github.com/matheesh25/Portfolio" 
 🌍 Live: https://matheesh25.github.io
 
 ---
@@ -67,5 +67,5 @@ I enjoy learning new technologies and working on real-world projects.
 
 ## 📫 Contact Me
 - 📧 Email: adityamatheesh@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 💼 LinkedIn: "https://www.linkedin.com/in/your-linkedin" 
 - 🌐 Portfolio: https://matheesh25.github.io
