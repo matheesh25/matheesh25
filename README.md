@@ -59,6 +59,13 @@ I enjoy learning new technologies and working on real-world projects.
 
 ---
 
+### 🌐 Student Management System
+📌 HTML | CSS | JavaScript| Python | Flask | JSON 
+🔗 "https://github.com/matheesh25/Student-Management-App" 
+🌍 Live: https://matheesh25.github.io
+
+---
+
 ## 📂 Other Works
 📌 Documentation, reports, diagrams & academic work  
 🔗 https://github.com/matheesh25/other-works
