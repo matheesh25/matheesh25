@@ -1,54 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03091a,50:004b7a,100:00c8ff&height=220&section=header&text=R%20A%20Matheesh%20Adithya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20IT%20Security%20%7C%20Software%20Development&descAlignY=58&descSize=17" width="100%"/>
+# 🛡️ R A Matheesh Adithya
 
-<br>
+### Cybersecurity • IT Security • Software Development
 
-<img src="https://github.com/matheesh25.png" width="140" height="140" alt="Matheesh Adithya"/>
+<p>
+  <a href="https://matheesh25.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00C8FF?style=for-the-badge" />
+  </a>
+  <a href="mailto:adityamatheesh@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Email-0066CC?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/matheesh25">
+    <img src="https://img.shields.io/badge/GitHub-03091A?style=for-the-badge&logo=github&logoColor=00C8FF" />
+  </a>
+</p>
 
-<br><br>
-
-<a href="https://matheesh25.github.io/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C8FF?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:adityamatheesh@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-0066CC?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/matheesh25">
-<img src="https://img.shields.io/badge/GITHUB-03091A?style=for-the-badge&logo=github&logoColor=00C8FF"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+IT+Security+Enthusiast;Vulnerability+Management+%7C+CVE+Analysis;Network+Security+%7C+Web+Security;Software+Developer+%7C+Computer+Science+Student" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=matheesh25&label=PROFILE%20VIEWS&color=00c8ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=matheesh25&label=PROFILE%20VIEWS&color=00C8FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **R A Matheesh Adithya**, a Computer Science student and cybersecurity-focused IT professional interested in **vulnerability management, security assessment, network security, web security, and software development**.
+I'm **R A Matheesh Adithya**, a Computer Science student and cybersecurity-focused IT professional interested in **vulnerability management, security assessment, network security, web security, cloud security, and software development**.
 
 * 🛡️ **IT Security Intern** at **Siyapatha Finance**
 * 🎓 Pursuing **BSc (Hons) Software Engineering & Computer Science** at **SLIIT City University**
 * 🔍 Focused on **CVE analysis, vulnerability management, risk assessment and security research**
-* 🌐 Interested in **network security, web application security and cloud security**
+* 🌐 Interested in **Network Security, Web Application Security and Cloud Security**
 * 💻 Full-stack development experience with **PHP, Python, JavaScript and Java**
-* ☁️ Currently building knowledge in **Microsoft Azure and cloud security**
-* 🧪 Practicing cybersecurity through labs, security testing and network security exercises
+* ☁️ Currently developing knowledge in **Microsoft Azure and Cloud Security**
+* 🧪 Practicing cybersecurity through authorized labs and security exercises
 * 🏏 Sports Council President and active cricket player
 * ⚡ *Every vulnerability has a story — my job is to understand it.*
 
 ---
 
-# 🔐 Cybersecurity Focus
+## 🔐 Cybersecurity Focus
 
 <div align="center">
 
@@ -64,21 +54,21 @@ I'm **R A Matheesh Adithya**, a Computer Science student and cybersecurity-focus
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-### 🔐 Cybersecurity & Networking
+### 🔐 Security & Networking
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Kali%20Linux-03091A?style=for-the-badge&logo=kalilinux&logoColor=00C8FF"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-03091A?style=for-the-badge&logo=burpsuite&logoColor=00C8FF"/>
-<img src="https://img.shields.io/badge/Nmap-03091A?style=for-the-badge&logo=nmap&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/Wireshark-03091A?style=for-the-badge&logo=wireshark&logoColor=00C8FF"/>
+<img src="https://img.shields.io/badge/Nmap-03091A?style=for-the-badge&logo=nmap&logoColor=00C8FF"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-03091A?style=for-the-badge&logo=burpsuite&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-03091A?style=for-the-badge&logo=cisco&logoColor=00C8FF"/>
 </p>
 
 ### 💻 Programming Languages
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Python-03091A?style=for-the-badge&logo=python&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/Java-03091A?style=for-the-badge&logo=openjdk&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/PHP-03091A?style=for-the-badge&logo=php&logoColor=00C8FF"/>
@@ -88,7 +78,7 @@ I'm **R A Matheesh Adithya**, a Computer Science student and cybersecurity-focus
 
 ### 🌐 Web Development
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/HTML5-03091A?style=for-the-badge&logo=html5&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/CSS3-03091A?style=for-the-badge&logo=css3&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/Bootstrap-03091A?style=for-the-badge&logo=bootstrap&logoColor=00C8FF"/>
@@ -98,21 +88,21 @@ I'm **R A Matheesh Adithya**, a Computer Science student and cybersecurity-focus
 
 ### 🗄️ Databases
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/MySQL-03091A?style=for-the-badge&logo=mysql&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/MongoDB-03091A?style=for-the-badge&logo=mongodb&logoColor=00C8FF"/>
 </p>
 
-### ☁️ Cloud & Learning
+### ☁️ Cloud
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-03091A?style=for-the-badge&logo=microsoftazure&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/AZ--900-03091A?style=for-the-badge&logo=microsoftazure&logoColor=00C8FF"/>
 </p>
 
 ### 🧰 Development Tools
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Git-03091A?style=for-the-badge&logo=git&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/GitHub-03091A?style=for-the-badge&logo=github&logoColor=00C8FF"/>
 <img src="https://img.shields.io/badge/VS%20Code-03091A?style=for-the-badge&logo=visualstudiocode&logoColor=00C8FF"/>
@@ -121,15 +111,15 @@ I'm **R A Matheesh Adithya**, a Computer Science student and cybersecurity-focus
 
 ---
 
-# 💼 Experience
+## 💼 Professional Experience
 
-## 🛡️ IT Security Intern — Siyapatha Finance
+### 🛡️ IT Security Intern — Siyapatha Finance
 
 **IT Security & Compliance**
 
-My current work focuses on vulnerability management and security analysis, including:
+My current responsibilities include:
 
-* 🔎 CVE identification and analysis
+* 🔎 CVE identification and vulnerability analysis
 * 📋 Vulnerability registry management
 * 📚 NVD and vendor security advisory research
 * ✅ Vulnerability validation
@@ -142,7 +132,7 @@ My current work focuses on vulnerability management and security analysis, inclu
 
 ---
 
-# 🧪 Cybersecurity Practice
+## 🧪 Cybersecurity Practice
 
 ### 🛡️ Vulnerability Management
 
@@ -158,7 +148,7 @@ My current work focuses on vulnerability management and security analysis, inclu
 * XSS testing
 * Burp Suite practice
 * SQLMap practice
-* Security testing against deliberately vulnerable applications
+* Testing deliberately vulnerable applications
 
 ### 🌐 Network Security
 
@@ -170,110 +160,109 @@ My current work focuses on vulnerability management and security analysis, inclu
 * NAT
 * Network architecture and security exercises
 
-> **All security testing is performed in authorized labs and controlled environments.**
+> ⚠️ Security testing is performed only in authorized labs and controlled environments.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+### 🎆 Hapana Fireworks
 
-| Project                 | Description                                                 | Technologies                         |
-| ----------------------- | ----------------------------------------------------------- | ------------------------------------ |
-| 🎆 **Hapana Fireworks** | Business website and academic security-testing project      | PHP · MySQL · Web Security           |
-| 🛒 **Capped-It**        | Full-stack e-commerce platform with administration features | PHP · MySQL                          |
-| 🍞 **Christo Bakers**   | Responsive bakery website with dynamic web functionality    | HTML · CSS · Bootstrap · AJAX · JSON |
-| 🏥 **PRMS**             | Patient Record Management System                            | Node.js · MongoDB · AJAX             |
-| 📱 **Bankers-App**      | Android application developed using Java                    | Java · Android                       |
+Business website developed as an academic project, with controlled security-testing exercises.
 
-</div>
-
-### 🔗 Project Repositories
-
-* 🎆 [**Hapana Fireworks**](https://github.com/matheesh25)
-* 🛒 [**Capped-It**](https://github.com/matheesh25/Capped-It)
-* 🍞 [**Christo Bakers**](https://github.com/matheesh25/christo-bakers)
-* 🏥 [**PRMS**](https://github.com/matheesh25/PRMS)
-* 📱 [**Bankers-App**](https://github.com/matheesh25/Bankers-App)
+**Technologies:** PHP · MySQL · Web Security
 
 ---
 
-# 📚 Currently Learning
+### 🛒 Capped-It
 
-<div align="center">
+Full-stack e-commerce platform with product management, shopping functionality and an administration panel.
 
-```text
-Cloud Security
-      ↓
-Microsoft Azure
-      ↓
-Network Security
-      ↓
-Web Application Security
-      ↓
-Vulnerability Management
-      ↓
-Cybersecurity Engineering
-```
+**Technologies:** PHP · MySQL · HTML · CSS · Bootstrap
 
-</div>
-
-I'm continuously developing my skills in:
-
-* ☁️ Microsoft Azure & Cloud Security
-* 🔐 Vulnerability Management
-* 🌐 Web Application Security
-* 🛡️ Network Security
-* 🐍 Python for Cybersecurity
-* 🔎 Security Testing
-* 📊 Security Risk Assessment
+🔗 [View Repository](https://github.com/matheesh25/Capped-It)
 
 ---
 
-# 📊 GitHub Statistics
+### 🍞 Christo Bakers
+
+Responsive bakery website with dynamic web functionality.
+
+**Technologies:** HTML · CSS · Bootstrap · AJAX · JSON
+
+🔗 [View Repository](https://github.com/matheesh25/christo-bakers)
+
+---
+
+### 🏥 Patient Record Management System
+
+Patient Record Management System developed with a REST API and database integration.
+
+**Technologies:** Node.js · MongoDB · AJAX
+
+🔗 [View Repository](https://github.com/matheesh25/PRMS)
+
+---
+
+### 📱 Bankers-App
+
+Android application developed using Java.
+
+**Technologies:** Java · Android Studio
+
+🔗 [View Repository](https://github.com/matheesh25/Bankers-App)
+
+---
+
+## 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheesh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03091A&title_color=00C8FF&icon_color=00C8FF&text_color=DDEEFF" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheesh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=03091A&title_color=00C8FF&text_color=DDEEFF" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matheesh25&theme=dark&hide_border=true&background=03091A&stroke=00C8FF&ring=00C8FF&fire=00F0D0&currStreakLabel=00C8FF&sideLabels=DDEEFF&currStreakNum=DDEEFF&sideNums=DDEEFF&dates=6A8FAF"/>
+| Area           | Focus                            |
+| :------------- | :------------------------------- |
+| ☁️ Cloud       | Microsoft Azure & Cloud Security |
+| 🔐 Security    | Vulnerability Management         |
+| 🌐 Web         | Web Application Security         |
+| 🌍 Network     | Network Security                 |
+| 🐍 Programming | Python for Cybersecurity         |
+| 🔎 Testing     | Security Assessment & Testing    |
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=matheesh25&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=matheesh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheesh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=C9D1D9" height="170"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 Career Goals
 
-* 🛡️ Strengthen my cybersecurity fundamentals
-* 🔎 Improve vulnerability assessment and CVE analysis skills
-* ☁️ Develop practical Azure and cloud-security knowledge
-* 🌐 Improve web and network security skills
-* 🐍 Build cybersecurity tools using Python
-* 💻 Continue developing real-world software projects
-* 🚀 Build a strong cybersecurity portfolio
-* 🎓 Continue progressing toward my Computer Science degree
+* 🛡️ Become a skilled cybersecurity professional
+* 🔎 Develop advanced vulnerability-management skills
+* ☁️ Build strong cloud-security knowledge
+* 🌐 Improve web and network security expertise
+* 🐍 Develop practical cybersecurity tools with Python
+* 🚀 Build real-world cybersecurity projects
+* 🎓 Complete my Computer Science degree
+* 🌍 Progress toward a career in cybersecurity engineering
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-If you're interested in **Cybersecurity, IT Security, Networking, Software Development or Technology**, feel free to connect with me.
+I'm always interested in connecting with people working in:
+
+**Cybersecurity · IT Security · Networking · Cloud · Software Development**
 
 <br>
 
@@ -300,7 +289,5 @@ If you're interested in **Cybersecurity, IT Security, Networking, Software Devel
 <div align="center">
 
 ### 🛡️ Secure. Learn. Build. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:03091a&height=120&section=footer" width="100%"/>
 
 </div>
